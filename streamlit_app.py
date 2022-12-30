@@ -1,2 +1,2 @@
 import streamlit
-steamlit.Title('My Parents Healthy Diner Menu')
+streamlit.Title('My Parents Healthy Diner Menu')
